@@ -48,7 +48,7 @@ El notebook se encargará de realizar un muestreo balanceado (3000 positivas y 3
 3. Puedes probar una nueva reseña editando esta línea:
 
 ```python
-nueva_reseña = "This product is amazing, I loved it!"
+nueva_reseña = "This book was absolutely wonderfull!."
 ```
 
 ---
