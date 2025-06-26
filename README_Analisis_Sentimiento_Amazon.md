@@ -30,7 +30,7 @@ Solo debes montarlo en Google Colab con:
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
-ruta = "/content/drive/MyDrive/NLP_final/reviews_Original_Amazon.json"
+ruta = '/content/drive/MyDrive/NLP/reviews_Books_5.json.gz'
 ```
 
 El notebook se encargará de realizar un muestreo balanceado (3000 positivas y 3000 negativas).
